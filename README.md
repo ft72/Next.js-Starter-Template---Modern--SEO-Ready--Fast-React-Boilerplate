@@ -270,11 +270,7 @@ export default Providers;
 
 Reference: `https://nextjs.org/docs/app/building-your-application/optimizing/fonts#google-fonts`
 
-### Components
-
-Absolute import is used. No more dots and slashes `../../../`. For components - `@components/`, for modules - `@modules/`, for lib - `@lib/`. You can always expand the list of absolute imports using the settings in the `tsconfig.json` file.
-
-Reference: `https://nextjs.org/docs/app/building-your-application/configuring/absolute-imports-and-module-aliases`
+iases`
 
 ### Middleware
 
@@ -283,6 +279,4 @@ Used to protect the route in authentication flow.
 
 Reference: `https://nextjs.org/docs/app/building-your-application/routing/middleware`
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
