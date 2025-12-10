@@ -2,34 +2,13 @@
 
 Pavel Tonkovich
 
-# Simple next.js starter
-
-A simple next.js starter with react-query, zustand and built-in features from next.js. Typescript. Modular architecture.
-
-### Built With
-
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [React-query](https://tanstack.com/query/latest)
-- [Zustand](https://zustand-demo.pmnd.rs/)
 
 ## Getting Started
 
 This is an example of how you may setting up your project with next.js, react-query and zustand.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-- Node.js 18.0 or later
-- MacOS, Windows (including WSL), and Linux
-
-### Installation
-
-1. Clone the repository
-
-```sh
-git clone https://github.com/Pavelkovo/next.js-starter.git
-```
 
 2. Install NPM packages
 
